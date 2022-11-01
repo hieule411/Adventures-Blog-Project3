@@ -6,7 +6,7 @@
 
 ## Project Summary
 ​ 
-Adventures Blog allows me to document, share my adventures and memories with everyone, help sustain and create the lifestyle that i enjoyed with my family. 
+At Adventures Travel Agency, we know the market and, we listen to what you want, and will be able to match you with any better travel products than you can find on the Internet.
 ​
 ## Developers
 ​
