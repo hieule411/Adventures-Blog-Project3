@@ -10,12 +10,12 @@ Adventures Blog allows me to document, share my adventures and memories with eve
 ​
 ## Developers
 ​
-1. Hieu Le
+Hieu Le
 ​
 ## Installation Instructions
 ​
 ​
-- To run this on your own computer you can copy the repo at https://github.com/hieule411/Adventures-Blog.git. After that you will need to npm install and run the command npm run seed to seed the database. After that it npm start will start the application.
+- To run this on your own computer you can copy the repo at https://github.com/hieule411/Adventures-Blog-Project3.git. After that you will need to npm install and run the command npm run seed to seed the database. After that it npm start will start the application.
 ​
 ​
 ## Animated Gifs/Pictures of App
@@ -28,19 +28,4 @@ React,
 Node.js, 
 Express.js,
 MongoDB 
-​
-​
-## APIs
-​
--
-​
-## MVP (Minimum Viable Product)
-​
--
-​
-​
-## Stretch Goals
-​
--
-
 
