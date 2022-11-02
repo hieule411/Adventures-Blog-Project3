@@ -31,10 +31,10 @@ Hieu Le
 React, 
 Node.js, 
 Express.js,
+MongoDB 
 
 ## Deployment
 
 Github: [Adventures-Blog](https://github.com/hieule411/Adventures-Blog-Project3.git)
 Heroku: [Heroku](https://git.heroku.com/adventures-travel-agency.git)
-MongoDB 
 
