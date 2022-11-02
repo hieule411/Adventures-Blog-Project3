@@ -20,7 +20,7 @@ Hieu Le
 ​
 ## Animated Gifs/Pictures of App
 
-![project3-1](https://user-images.githubusercontent.com/105993700/199154837-fe4e0c07-f103-44c3-9fbb-b1af9460d58e.jpg)
+![Project3-1-1](https://user-images.githubusercontent.com/105993700/199390241-8a20d1b1-7821-464c-84d3-325490ec9046.jpg)
 ![project3-2](https://user-images.githubusercontent.com/105993700/199154844-7516fce7-877a-4318-ae04-36c7fc23a4ee.jpg)
 ![project3-3](https://user-images.githubusercontent.com/105993700/199154850-8996e6a0-16ff-4128-a96c-b13a58d47386.jpg)
 ![project3-4](https://user-images.githubusercontent.com/105993700/199154857-83e4f59e-2d49-4787-94d6-534c9fb12d5d.jpg)
@@ -31,5 +31,10 @@ Hieu Le
 React, 
 Node.js, 
 Express.js,
+
+## Deployment
+
+Github: [Adventures-Blog](https://github.com/hieule411/Adventures-Blog-Project3.git)
+Heroku: [Heroku](https://git.heroku.com/adventures-travel-agency.git)
 MongoDB 
 
