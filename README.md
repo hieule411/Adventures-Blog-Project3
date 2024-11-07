@@ -6,7 +6,7 @@
 
 ## Project Summary
 ​ 
-At Adventures Travel Agency, we know the market and, we listen to what you want, and will be able to match you with any better travel products than you can find on the Internet.
+At Adventures Travel Agency, we understand your travel needs and offer personalized services to match your ideal vacation. Our experienced agents can curate unique travel experiences that surpass what you'll find online.
 ​
 ## Developers
 ​
